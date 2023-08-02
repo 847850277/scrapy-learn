@@ -1,6 +1,6 @@
 # scrapy-learn
 
->scrapy_learn 爬虫框架学习
+>scrapy-learn 爬虫框架学习
 
 >00 selector选择器
 
